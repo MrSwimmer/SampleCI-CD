@@ -25,6 +25,9 @@ jobs:
       - run:
           name: Run Build
           command: ./gradlew build
+      - run:
+          name: Run Build
+          command: ./gradlew build
       - store_artifacts:
           path: app/build/outputs/apk/debug/
           destination: artifact-file
