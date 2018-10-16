@@ -1,2 +1,2 @@
 # SampleCI
-Sample CI/CD in Android by CircleCI & Fabric
+Sample CI/CD in Android by CircleCI & Fabric.
